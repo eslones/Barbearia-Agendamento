@@ -42,10 +42,10 @@ const realizarReserva = () => {
 
 // Dados dos Reviews
 const reviews = [
-  { id: 1, nome: "João Silva", texto: "Melhor degradê da região! O atendimento é nota 10.", foto: "https://i.pravatar.cc/150?u=1" },
+  { id: 1, nome: "Igor Luis", texto: "Melhor degradê da região! O atendimento é nota 10.", foto: "https://i.pravatar.cc/150?u=19" },
   { id: 2, nome: "Pedro Santos", texto: "Ambiente muito massa e a cerveja está sempre gelada.", foto: "https://i.pravatar.cc/150?u=2" },
-  { id: 3, nome: "Lucas Moraes", texto: "Profissionais qualificados. Recomendo o corte com a navalha.", foto: "https://i.pravatar.cc/150?u=3" },
-  { id: 4, nome: "Marcos Souza", texto: "Virei cliente fiel. Preço justo e qualidade impecável.", foto: "https://i.pravatar.cc/150?u=4" }
+  { id: 3, nome: "Lucas Moraes", texto: "Profissionais qualificados. Recomendo o corte com a navalha.", foto: "https://i.pravatar.cc/150?u=5" },
+  { id: 4, nome: "Marcos Souza", texto: "Virei cliente fiel. Preço justo e qualidade impecável.", foto: "https://i.pravatar.cc/150?u=14" }
 ];
 
 // --- LÓGICA DE NAVEGAÇÃO ---
